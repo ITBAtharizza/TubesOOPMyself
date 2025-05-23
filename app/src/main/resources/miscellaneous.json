@@ -1,0 +1,4 @@
+[
+    {"name": "Coal", "sellPrice": 10, "buyPrice" : 20},
+    {"name": "Firewood", "sellPrice": 5, "buyPrice" : 10}
+]

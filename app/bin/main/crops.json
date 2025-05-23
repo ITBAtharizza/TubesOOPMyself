@@ -1,0 +1,13 @@
+[
+  { "name": "Parsnip", "sellPrice": 50, "buyPrice": 35, "harvestedAmount": 1 },
+  { "name": "Cauliflower", "sellPrice": 200, "buyPrice": 150, "harvestedAmount": 1 },
+  { "name": "Potato", "sellPrice": null, "buyPrice": 80, "harvestedAmount": 1 },
+  { "name": "Wheat", "sellPrice": 50, "buyPrice": 30, "harvestedAmount": 3 },
+  { "name": "Blueberry", "sellPrice": 150, "buyPrice": 40, "harvestedAmount": 3 },
+  { "name": "Tomato", "sellPrice": 90, "buyPrice": 60, "harvestedAmount": 1 },
+  { "name": "Hot Pepper", "sellPrice": null, "buyPrice": 40, "harvestedAmount": 1 },
+  { "name": "Melon", "sellPrice": null, "buyPrice": 250, "harvestedAmount": 1 },
+  { "name": "Cranberry", "sellPrice": null, "buyPrice": 25, "harvestedAmount": 10 },
+  { "name": "Pumpkin", "sellPrice": 300, "buyPrice": 250, "harvestedAmount": 1 },
+  { "name": "Grape", "sellPrice": 100, "buyPrice": 10, "harvestedAmount": 20 }
+]

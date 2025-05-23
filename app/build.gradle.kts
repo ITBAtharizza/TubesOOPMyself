@@ -20,6 +20,8 @@ dependencies {
     testImplementation(libs.junit.jupiter)
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+    implementation("com.google.code.gson:gson:2.10.1")
+
 
     // This dependency is used by the application.
     implementation(libs.guava)
@@ -32,12 +34,16 @@ java {
     }
 }
 
+// In your application plugin configuration or run task
 application {
-    // Define the main class for the application.
-    mainClass = "org.example.App"
+    mainClass.set("org.example.App")
 }
-
-tasks.named<Test>("test") {
-    // Use JUnit Platform for unit tests.
-    useJUnitPlatform()
+tasks.named<JavaExec>("run") {
+    standardInput = System.`in`
+}
+// Or if you have a custom JavaExec task:
+tasks.register<JavaExec>("myCustomRun") {
+    classpath = sourceSets.main.get().runtimeClasspath
+    mainClass.set("org.example.App")
+    standardInput = System.`in` // This is the crucial line
 }

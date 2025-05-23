@@ -1,0 +1,14 @@
+[
+  { "name": "Fish n' Chips", "energyGained": 50, "buyPrice": 150, "sellPrice": 135 },
+  { "name": "Baguette", "energyGained": 25, "buyPrice": 100, "sellPrice": 80 },
+  { "name": "Sashimi", "energyGained": 70, "buyPrice": 300, "sellPrice": 275 },
+  { "name": "Fugu", "energyGained": 50, "buyPrice": null, "sellPrice": 135 },
+  { "name": "Wine", "energyGained": 20, "buyPrice": 100, "sellPrice": 90 },
+  { "name": "Pumpkin Pie", "energyGained": 35, "buyPrice": 120, "sellPrice": 100 },
+  { "name": "Veggie Soup", "energyGained": 40, "buyPrice": 140, "sellPrice": 120 },
+  { "name": "Fish Stew", "energyGained": 70, "buyPrice": 280, "sellPrice": 260 },
+  { "name": "Spakbor Salad", "energyGained": 70, "buyPrice": null, "sellPrice": 250 },
+  { "name": "Fish Sandwich", "energyGained": 50, "buyPrice": 200, "sellPrice": 180 },
+  { "name": "The Legends of Spakbor", "energyGained": 100, "buyPrice": null, "sellPrice": 2000 },
+  { "name": "Cooked Pig's Head", "energyGained": 100, "buyPrice": 1000, "sellPrice": null }
+]

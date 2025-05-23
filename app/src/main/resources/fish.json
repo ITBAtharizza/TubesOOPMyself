@@ -1,0 +1,21 @@
+[
+    {"name":"Bullhead","rarity":"Common","seasons":["Any"],"timeRanges":[["Any"]],"weathers":["Any"],"locations":["Mountain Lake"]},
+    {"name":"Carp","rarity":"Common","seasons":["Any"],"timeRanges":[["Any"]],"weathers":["Any"],"locations":["Mountain Lake","Pond"]},
+    {"name":"Chub","rarity":"Common","seasons":["Any"],"timeRanges":[["Any"]],"weathers":["Any"],"locations":["Forest River","Mountain Lake"]},
+    {"name":"Largemouth Bass","rarity":"Regular","seasons":["Any"],"timeRanges":[["06:00","18:00"]],"weathers":["Any"],"locations":["Mountain Lake"]},
+    {"name":"Rainbow Trout","rarity":"Regular","seasons":["Summer"],"timeRanges":[["06:00","18:00"]],"weathers":["Sunny"],"locations":["Forest River","Mountain Lake"]},
+    {"name":"Sturgeon","rarity":"Regular","seasons":["Summer","Winter"],"timeRanges":[["06:00","18:00"]],"weathers":["Any"],"locations":["Mountain Lake"]},
+    {"name":"Midnight Carp","rarity":"Regular","seasons":["Winter","Fall"],"timeRanges":[["20:00","23:59"],["00:00","02:00"]],"weathers":["Any"],"locations":["Mountain Lake","Pond"]},
+    {"name":"Flounder","rarity":"Regular","seasons":["Spring","Summer"],"timeRanges":[["06:00","22:00"]],"weathers":["Any"],"locations":["Ocean"]},
+    {"name":"Halibut","rarity":"Regular","seasons":["Any"],"timeRanges":[["06:00","11:00"],["19:00","23:59"],["00:00","02:00"]],"weathers":["Any"],"locations":["Ocean"]},
+    {"name":"Octopus","rarity":"Regular","seasons":["Summer"],"timeRanges":[["06:00","22:00"]],"weathers":["Any"],"locations":["Ocean"]},
+    {"name":"Pufferfish","rarity":"Regular","seasons":["Summer"],"timeRanges":[["00:00","16:00"]],"weathers":["Sunny"],"locations":["Ocean"]},
+    {"name":"Sardine","rarity":"Regular","seasons":["Any"],"timeRanges":[["06:00","18:00"]],"weathers":["Any"],"locations":["Ocean"]},
+    {"name":"Super Cucumber","rarity":"Regular","seasons":["Summer","Fall","Winter"],"timeRanges":[["18:00","23:59"],["00:00","02:00"]],"weathers":["Any"],"locations":["Ocean"]},
+    {"name":"Catfish","rarity":"Regular","seasons":["Spring","Summer","Fall"],"timeRanges":[["06:00","22:00"]],"weathers":["Rainy"],"locations":["Forest River","Pond"]},
+    {"name":"Salmon","rarity":"Regular","seasons":["Fall"],"timeRanges":[["06:00","18:00"]],"weathers":["Any"],"locations":["Forest River"]},
+    {"name":"Angler","rarity":"Legendary","seasons":["Fall"],"timeRanges":[["08:00","20:00"]],"weathers":["Any"],"locations":["Pond"]},
+    {"name":"Crimsonfish","rarity":"Legendary","seasons":["Summer"],"timeRanges":[["08:00","20:00"]],"weathers":["Any"],"locations":["Ocean"]},
+    {"name":"Glacierfish","rarity":"Legendary","seasons":["Winter"],"timeRanges":[["08:00","20:00"]],"weathers":["Any"],"locations":["Forest River"]},
+    {"name":"Legend","rarity":"Legendary","seasons":["Spring"],"timeRanges":[["08:00","20:00"]],"weathers":["Rainy"],"locations":["Mountain Lake"]}
+]

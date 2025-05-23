@@ -1,0 +1,14 @@
+[
+    {"name":"Parsnip Seeds","season":"Spring","harvestTime":1,"buyPrice":20},
+    {"name":"Cauliflower Seeds","season":"Spring","harvestTime":5,"buyPrice":80},
+    {"name":"Potato Seeds","season":"Spring","harvestTime":3,"buyPrice":50},
+    {"name":"Wheat Seeds","season":"Spring","harvestTime":1,"buyPrice":60},
+    {"name":"Blueberry Seeds","season":"Summer","harvestTime":7,"buyPrice":80},
+    {"name":"Tomato Seeds","season":"Summer","harvestTime":3,"buyPrice":50},
+    {"name":"Hot Pepper Seeds","season":"Summer","harvestTime":1,"buyPrice":40},
+    {"name":"Melon Seeds","season":"Summer","harvestTime":4,"buyPrice":80},
+    {"name":"Cranberry Seeds","season":"Fall","harvestTime":2,"buyPrice":100},
+    {"name":"Pumpkin Seeds","season":"Fall","harvestTime":7,"buyPrice":150},
+    {"name":"Wheat Seeds","season":"Fall","harvestTime":1,"buyPrice":60},
+    {"name":"Grape Seeds","season":"Fall","harvestTime":3,"buyPrice":60}
+]
